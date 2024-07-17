@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">小米移动 R</string>
+    <string name="textview">麗姫を描く</string>
+    <string name="textview1">一条咸鱼躺平养成计划！</string>
+    <string name="button">跳过</string>
+    <string name="textview2">登录账号/号码</string>
+    <string name="textview3">管理已激活的号码，查话费，充值</string>
+    <string name="textview4">在线版本：</string>
+    <string name="textview5">本地版本：</string>
+    <string name="textview6">版本号：</string>
+    <string name="textview7">欢迎登录小米移动</string>
+    <string name="textview8">查询、缴费、一站搞定</string>
+    <string name="textview9">请输入cookie</string>
+    <string name="textview10">保存本地</string>
+    <string name="textview11">手机号</string>
+    <string name="textview12">账户余额(元)</string>
+    <string name="textview13">当月消费(元)</string>
+    <string name="textview14">本月剩余流量(GB)</string>
+    <string name="textview15">本月通话时长(分钟)</string>
+    <string name="textview16">自定义充值</string>
+    <string name="button1">0.1 元</string>
+    <string name="button2">1元</string>
+    <string name="button3">10元</string>
+    <string name="button4">20元</string>
+    <string name="button5">30元</string>
+    <string name="button6">50元</string>
+    <string name="button7">100元</string>
+    <string name="button8">200元</string>
+    <string name="button9">300元</string>
+    <string name="textview17">打开浏览器登录获取cookie</string>
+</resources>
